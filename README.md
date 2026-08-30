@@ -8,9 +8,9 @@ I care about the boring parts — TDD, DDD, code that still reads well ten years
 
 **[compendio-mcp](https://github.com/RuloGB/compendio-mcp)** — an MCP server that indexes a project's markdown documentation and serves it to any AI agent. Hybrid retrieval (keyword + semantic) over SQLite with local CPU embeddings, around 10 tokens per document in the orientation, and zero configuration to get started. Node.js and TypeScript.
 
-**[opencode-persona](https://github.com/RuloGB/opencode-persona)** — an OpenCode plugin that adapts the assistant to each user's professional role, persists that role across sessions, and injects the matching context at session start. TypeScript.
+**[vertice](https://github.com/RuloGB/vertice)** — a read-only desktop app that inventories the AI components (skills, agents, MCP servers, prompts) that Claude Code, OpenCode, Copilot and Codex install on a machine. Rust and Tauri 2 on the back, Svelte 5 and TypeScript on the front, spec-driven with OpenSpec, installers built in CI with build provenance attestation.
 
-**Vertice** — a read-only desktop app that inventories the AI components (skills, agents, MCP servers, prompts) that Claude Code, OpenCode, Copilot and Codex install on a machine. Rust and Tauri 2 on the back, Svelte 5 and TypeScript on the front, spec-driven with OpenSpec. Private while I finish a few things; it will be public.
+**[opencode-persona](https://github.com/RuloGB/opencode-persona)** — an OpenCode plugin that adapts the assistant to each user's professional role, persists that role across sessions, and injects the matching context at session start. TypeScript.
 
 ### Tools of the trade
 
@@ -18,4 +18,4 @@ Java · Spring Boot · Microservices · TypeScript · Node.js · Angular · Vue 
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/raul-garcia-barciela-1399a7294)
+[Portfolio](https://raul-garcia-portafolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raulgarciabarciela)
